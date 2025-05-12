@@ -101,18 +101,23 @@ flutter run
 
 ## 📷 Captures d’écran supplémentaires
 Page de connexion
+
 <img src="https://github.com/user-attachments/assets/4a4567bf-7f3d-4fab-bf51-ac502d1b433b" alt="Page de connexion" width="50">
 
 Page d'enregistrement
+
 <img src="https://github.com/user-attachments/assets/f09716c8-6ac6-4dc5-9e4a-081a98845d6f" alt="Page d'enregistrement" width="50">
 
 Page publique avec liste des articles
+
 <img src="https://github.com/user-attachments/assets/c56badf8-5b16-4a98-9edd-ad54737fd849" alt="Page publique avec liste des articles" width="50">
 
 Page de modification
+
 <img src="https://github.com/user-attachments/assets/902079d0-699c-458b-9dba-867692e49d1a" alt="Page de modification" width="50">
 
 Page de création d'article
+
 <img src="https://github.com/user-attachments/assets/b36e61f1-5de3-490a-96f3-5b81e25f6211" alt="Page de création d'article" width="50">
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
